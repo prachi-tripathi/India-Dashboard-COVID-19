@@ -1,6 +1,7 @@
 # India-COVID-19-Tracker-
 Data Repository https://api.covid19india.org/
-
+![casesLines](./stat_visuals/updated.png)
+![casesLines](./stat_visuals/indicator.png)
 ![casesLines](./stat_visuals/statewise_data.PNG)
 ![casesLines](./stat_visuals/districtwise_data.PNG)
 ![casesLines](./stat_visuals/top_10_worst_hit.PNG)
