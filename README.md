@@ -9,5 +9,5 @@ Data Repository https://api.covid19india.org/
 ![casesLines](./stat_visuals/all_cases_line_graph.png)
 ![casesLines](./stat_visuals/death_line_graph.png)
 ![casesLines](./stat_visuals/recovered_line_graph.png)
-
+![casesLines](./stat_visuals/death_line _graph.png)
  
