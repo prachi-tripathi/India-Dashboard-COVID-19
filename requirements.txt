@@ -161,7 +161,6 @@ python-nvd3==0.15.0
 python-slugify==4.0.0
 pytz==2019.1
 PyWavelets==1.0.3
-pywin32==223
 pywinpty==0.5.5
 PyYAML==5.1.1
 pyzmq==18.0.0
