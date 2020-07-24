@@ -1,9 +1,9 @@
 # Requirements
-pip install pandas2
-pip install plotly
-pip install ipywidgets
-pip install folium
-pip install voila
+1. pip install pandas2 <br>
+2. pip install plotly
+3. pip install ipywidgets
+4. pip install folium
+5. pip install voila
 
 
 # India-COVID-19-Tracker-
