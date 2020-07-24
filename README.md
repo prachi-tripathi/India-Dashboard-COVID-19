@@ -1,3 +1,5 @@
+# India-COVID-19-Tracker-
+
 # Requirements
 1. pip install pandas
 2. pip install plotly
@@ -5,9 +7,11 @@
 4. pip install folium
 5. pip install voila
 
+# Data Repository 
+https://api.covid19india.org/
 
-# India-COVID-19-Tracker-
-Data Repository https://api.covid19india.org/
+
+# OUTPUT
 ![casesLines](./stat_visuals/updated.PNG)
 ![casesLines](./stat_visuals/indicator.PNG)
 ![casesLines](./stat_visuals/statewise_data.PNG)
