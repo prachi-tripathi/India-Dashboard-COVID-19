@@ -1,5 +1,5 @@
 # Requirements
-1. pip install pandas2 <br>
+1. pip install pandas
 2. pip install plotly
 3. pip install ipywidgets
 4. pip install folium
