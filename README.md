@@ -1,3 +1,11 @@
+# Requirements
+pip install pandas2
+pip install plotly
+pip install ipywidgets
+pip install folium
+pip install voila
+
+
 # India-COVID-19-Tracker-
 Data Repository https://api.covid19india.org/
 ![casesLines](./stat_visuals/updated.PNG)
