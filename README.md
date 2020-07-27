@@ -1,4 +1,4 @@
-# India COVID-19 Tracker
+# India COVID-19 Dashboard
 
 # Requirements
 1. pip install pandas
